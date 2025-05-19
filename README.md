@@ -1,3 +1,5 @@
+# lista-exercicios
+
 
 # 📚 Lista de Exercícios 1 - Estudando as estruturas básicas  
 (+PraTi & Codifica Edu)
@@ -68,4 +70,7 @@ node Exercicio-01.js
 
 ---
 
-Obrigada!
+
+---
+
+Obrigada! 🚀
